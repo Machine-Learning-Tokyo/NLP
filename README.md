@@ -18,7 +18,7 @@ It aims to cover both traditional and core NLP tasks such as dependency parsing 
 
 Source: [NLP Progress](https://nlpprogress.com/)
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/NLP/blob/master/images/nlpprogress.png" width="400"></p>](https://nlpprogress.com/)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/NLP/blob/master/images/nlpprogress.png" width="800"></p>](https://nlpprogress.com/)
 
 
 ## A Brief Survey
@@ -36,7 +36,7 @@ Source: [NLP Progress](https://nlpprogress.com/)
 
 Source: [NLP for Supervised Learning - A Brief Survey](https://eugeneyan.com/writing/nlp-supervised-learning-survey/)
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/NLP/blob/master/images/attention.png" width="400"></p>](https://eugeneyan.com/writing/nlp-supervised-learning-survey/)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/NLP/blob/master/images/attention.png" width="800"></p>](https://eugeneyan.com/writing/nlp-supervised-learning-survey/)
 
 
 
