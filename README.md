@@ -4,9 +4,9 @@ Learn about Natural Language Processing, find resources, models, repos, datasets
 
 ## Content
 
-- [A Brief Survey](a-brief-survey)
+- [A Brief Survey](#a-brief-survey)
 - [NLP Progress](#nlp-progress)
-- [Natural Language Processing Specialization](natural-language-processing-specialization)
+- [Natural Language Processing Specialization](#natural-language-processing-specialization)
 
 
 ## A Brief Survey
@@ -46,7 +46,7 @@ Source: [NLP Progress](https://nlpprogress.com/)
 
 "Natural Language Processing (NLP) uses algorithms to understand and manipulate human language. This technology is one of the most broadly applied areas of machine learning. As AI continues to expand, so will the demand for professionals skilled at building models that analyze speech and language, uncover contextual patterns, and produce insights from text and audio."
 
-- Source: [Coursera](https://www.coursera.org/specializations/natural-language-processing)
+Source: [Coursera](https://www.coursera.org/specializations/natural-language-processing)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/NLP/blob/master/images/coursera_nlp.png" width="800"></p>](https://nlpprogress.com/)
 
